@@ -1,0 +1,5 @@
+.body_background {
+    background-image: url("frame_img.webp");
+    background-position: center;
+    background-size: cover;
+}
